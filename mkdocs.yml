@@ -3,7 +3,7 @@ site_description: Documentation for our awesome team
 site_author: Your Name
 
 theme:
-  name: readthedocs
+  name: material
 nav:
   - Home: index.md
   - About: about.md
